@@ -1,1 +1,2 @@
 #File pertama untuk SIC6
+ini adalah perubahan
